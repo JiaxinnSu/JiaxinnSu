@@ -2,7 +2,8 @@
 - 👀 I’m interested in build website and microcontorller.
 - 🌱 I’m currently learning react.js.
 - 💞️ I’m looking to collaborate on building websit
-- 📫 Work in Civil Aviation Fight University of China Sichuan.
+- 💼 Work in Civil Aviation Fight University of China.
+- 📫 Chengdu Sichuan China.
 
 <!---
 JiaxinnSu/JiaxinnSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
