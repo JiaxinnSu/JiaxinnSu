@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JiaxinnSu
-- 👀 I’m interested in build website and microcontorller.
+- 👀 I’m interested in build web and microcontorller.
 - 🌱 I’m currently learning react.js.
 - 💞️ I’m looking to collaborate on building websit
 - 💼 Work in Civil Aviation Fight University of China.
